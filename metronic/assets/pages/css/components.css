@@ -404,6 +404,9 @@ Social Icons
 .social-icons li .facebook {
     background: url(../../pages/img/social/facebook.png) no-repeat;
 }
+.social-icons li .taobao {
+    background: url(../../pages/img/social/taobao.png) no-repeat;
+}
 .social-icons li .forrst {
     background: url(../../pages/img/social/forrst.png) no-repeat;
 }
@@ -549,6 +552,9 @@ Inline Social Icons
 }
 .social-icon.facebook {
     background: url(../../pages/img/social/facebook.png) no-repeat;
+}
+.social-icons.taobao {
+    background: url(../../pages/img/social/taobao.png) no-repeat;
 }
 .social-icon.forrst {
     background: url(../../pages/img/social/forrst.png) no-repeat;
